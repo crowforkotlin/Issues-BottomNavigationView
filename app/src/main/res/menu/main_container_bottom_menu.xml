@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/main_menu_homepage"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="chat"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/main_menu_discovery_comic"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="chat"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/main_menu_bookshelf"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="chat"
+        app:showAsAction="ifRoom" />
+
+    <item
+        android:id="@+id/main_menu_anime"
+        android:icon="@android:drawable/sym_action_chat"
+        android:title="chat"
+        app:showAsAction="ifRoom" />
+
+</menu>
